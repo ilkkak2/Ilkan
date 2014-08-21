@@ -3,7 +3,7 @@
 //*
 //* Read all POST and GET variables
 //* and parse command line
-//* githubissa
+//* githubissa uusi kommentti
 //***********************************************
 
 	date_default_timezone_set("Europe/Helsinki"); 
